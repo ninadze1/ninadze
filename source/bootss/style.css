@@ -1,0 +1,52 @@
+body {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  height: 205px;
+  width: 300px;
+  color: #e2e2e2;
+}
+
+.product-item {
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  background: white;
+}
+
+.product-list {
+  background: #ffffff;
+  padding: 30px 25px;
+  color: #666666;
+  text-align: left;
+  justify-content: space-between;
+}
+.product-list h3 {
+  font-size: 20px;
+  font-style: bold;
+  color: #333333;
+  margin: 0 0 10px 0;
+}
+
+.button {
+  text-align: center;
+  padding: 8px 0 0 0;
+  display: inline-block;
+  height: 32px;
+  width: 50px;
+  background: #4ed17b;
+  color: #ffffff;
+  margin-left: 60px;
+  border-radius: 4px;
+}
+.valuta {
+  font-size: 20px;
+}
+b {
+  font-size: 35px;
+  color: #333333;
+  font-style: bold;
+  width: 150px;
+}
